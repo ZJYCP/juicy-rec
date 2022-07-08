@@ -9,4 +9,6 @@
 - 推荐系统最新论文
 
 [GitHub](https://github.com/zjycp/awesome-rec/)
-[Get Started](#docsify)
+[Get Started](/)
+<!-- 
+![color]('linear-gradient(to left bottom, hsl(39, 100%, 85%) 0%,hsl(166, 100%, 85%) 100%)') -->
