@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css"/>
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/style.css"/>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
 </head>
 <body>
   <div id="app"></div>
@@ -48,9 +49,20 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/index.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
 
-
-
+  <script>
+    const gitalk = new Gitalk({
+      clientID: 'c68c4d6292363d2b52c7',
+      clientSecret: '298f66f3f77f162ead627f6f9919b2fc81232cdd',
+      repo: 'gitalk',
+      owner: 'ZJYCP',
+      admin: ['ZJYCP'],
+      // facebook-like distraction free mode
+      distractionFreeMode: false
+    })
+  </script>
   <style>
     #TOPBANNER {
       text-align: center;
