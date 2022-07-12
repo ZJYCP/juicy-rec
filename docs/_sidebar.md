@@ -10,7 +10,7 @@
   - [AutoRec——单隐层神经网络](深度学习推荐算法/AutoRec.md)
   - [Deep Crossing——经典架构](深度学习推荐算法/Deep_Crossing.md)
   - [NeuralCF——CF & 深度学习](深度学习推荐算法/NeuralCF.md)
-  - PNN模型——加强特征交叉
+  - [PNN模型——加强特征交叉](深度学习推荐算法/PNN.md)
   - FM & 深度学习
   - 推荐中的注意力机制
   - DIEN——序列模型与推荐
