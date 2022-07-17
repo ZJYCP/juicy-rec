@@ -1,0 +1,49 @@
+from turtle import st
+from matplotlib.pyplot import axes, axis
+from numpy import float32
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import MinMaxScaler,LabelEncoder
+import torch
+import numpy as np
+from torch.utils.data import DataLoader, Dataset
+
+def create_criteo_dataset(data_path, split=0.2):
+    data = pd.read_csv(data_path)
+
+    dense_features = ['I' + str(i) for i in range(1, 14)]
+    sparse_features = ['C' + str(i) for i in range(1,27)]
+
+    data[dense_features] = data[dense_features].fillna(0)
+    data[sparse_features] = data[sparse_features].fillna('-1')
+
+    data[dense_features] = MinMaxScaler().fit_transform(data[dense_features])
+    # for feat in sparse_features:
+    #     lbe = LabelEncoder()
+    #     data[feat] = lbe.fit_transform(data[feat])
+    
+    data = pd.get_dummies(data)
+    train, test = train_test_split(data, test_size=split)
+
+    train_data = CriteoDataset(train)
+    test_data = CriteoDataset(test)
+    return train_data, test_data
+
+class CriteoDataset(Dataset):
+    def __init__(self, data):
+        self.length = len(data)
+        self.data = data.reset_index(drop=True)
+
+    def __getitem__(self, index):
+        X = self.data.iloc[index, 1:].values
+        y = self.data.loc[index,'label'].reshape(1,).astype(np.float64)
+        return X, y
+
+    def __len__(self):
+        return self.length
+
+
+if __name__ == "__main__":
+    train_data, test_data = create_criteo_dataset('../Data/criteo.txt')
+    train_dataloader = DataLoader(train_data, batch_size=10)
+
