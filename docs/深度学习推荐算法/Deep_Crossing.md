@@ -30,7 +30,7 @@ Deep Crossing由四个部分组成：Embedding层、Stacking层、Multiple Resid
 
 **Stacking 层**：将各个类型的特征进行拼接，也成为了concatenate层
 
-**Multiple Residual Unit层**：多层残差网络，对特征向量各个维度进行充分的特征交叉组合，使得模型能够抓取更多的非线性特征和组合特征的信息
+**Multiple Residual Unit层**：多层残差网络，**对特征向量各个维度进行充分的特征交叉组合**，使得模型能够抓取更多的非线性特征和组合特征的信息
 
 <img src="https://blog-1252832257.cos.ap-shanghai.myqcloud.com/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9xUDhKUm5XNlQzb0lpYnAxNEFycWlhb3ZRSjlnMUw0Z2VKZWdnZERLblI1a0NrejIxVGhEc3M2V2JEZTlRZFFmb2liTjFDcmtRVGljd0hQSnYzdUtOd3EwU3cvNjQw" alt="img" style="zoom:67%;" />
 
@@ -40,3 +40,8 @@ Deep Crossing由四个部分组成：Embedding层、Stacking层、Multiple Resid
 
 从现在看，Deep Crossing是比较平淡的，没有引入注意力机制、序列模型等结构。但从历史的角度来讲，Deep Crossing结构也是具有革命性的，相比FM、FFM等只具备二阶特征交叉的模型，其能够对特征进行深度交叉。
 
+
+
+## 代码
+
+参见[deepcrossing](https://github.com/ZJYCP/awesome-rec/tree/main/code/DeepCrossing)
