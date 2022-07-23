@@ -24,7 +24,7 @@
   - DIEN——序列模型与推荐
   - 强化学习 & 推荐
   - **Embedding技术的应用**
-    - Embedding简介 
+    - Embedding简介
     - Word2Vec方法
     - Item2Vec方法
     - Graph Embedding
