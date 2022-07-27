@@ -4,19 +4,6 @@
 
 本页更新中ing
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x5fa{border-color:inherit;color:#34495E;text-align:center;vertical-align:middle}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-hq1h{border-color:inherit;color:#00E;text-align:center;text-decoration:underline;vertical-align:top}
-.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
-.tg .tg-g0bs{border-color:inherit;color:#34495E;text-align:left;vertical-align:middle}
-.tg .tg-qh79{border-color:inherit;color:#00E;text-align:center;text-decoration:underline;vertical-align:middle}
-</style>
 <table class="tg">
 <thead>
   <tr>
