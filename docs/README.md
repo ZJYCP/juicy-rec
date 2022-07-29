@@ -70,7 +70,7 @@
   </tr>
   <tr>
     <td>注意力机制</td>
-    <td></td>
+    <td><a href="https://juicy-rec.emx6.com/#/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95/Attention">注意力机制的引入(AFM、DIN)</a></td>
     <td></td>
   </tr>
   <tr>
@@ -123,3 +123,4 @@
   </tr>
 </tbody>
 </table>
+

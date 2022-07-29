@@ -13,7 +13,7 @@
   - [PNN模型——加强特征交叉](深度学习推荐算法/PNN.md)
   - [Wide&Deep——记忆&泛化](深度学习推荐算法/Wide&Deep.md)
   - [FM & DNN (FNN、DeepFM、NFM)](深度学习推荐算法/FM_Deep.md)
-  - 推荐中的注意力机制
+  - [推荐中的注意力机制AFM、DIN](深度学习推荐算法/Attention.md)
   - DIEN——序列模型与推荐
   - 强化学习 & 推荐
   - **Embedding技术的应用**
