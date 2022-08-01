@@ -14,7 +14,7 @@
   - [Wide&Deep——记忆&泛化](深度学习推荐算法/Wide&Deep.md)
   - [FM & DNN (FNN、DeepFM、NFM)](深度学习推荐算法/FM_Deep.md)
   - [推荐中的注意力机制AFM、DIN](深度学习推荐算法/Attention.md)
-  - DIEN——序列模型与推荐
+  - [DIEN——序列模型与推荐](深度学习推荐算法/DIEN.md)
   - 强化学习 & 推荐
   - **Embedding技术的应用**
   	- Embedding简介 
