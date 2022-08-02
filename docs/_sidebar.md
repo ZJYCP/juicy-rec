@@ -7,22 +7,23 @@
   - [矩阵分解推荐算法](推荐系统基础算法/矩阵分解推荐算法.md)
   - [因子分解机](推荐系统基础算法/因子分解机.md)
 - **三、进阶推荐系统算法**
-  - [AutoRec——单隐层神经网络](深度学习推荐算法/AutoRec.md)
-  - [Deep Crossing——经典架构](深度学习推荐算法/Deep_Crossing.md)
-  - [NeuralCF——CF & 深度学习](深度学习推荐算法/NeuralCF.md)
-  - [PNN模型——加强特征交叉](深度学习推荐算法/PNN.md)
+  - **经典结构**
+      - [AutoRec——单隐层神经网络](深度学习推荐算法/AutoRec.md)
+      - [Deep Crossing——经典架构](深度学习推荐算法/Deep_Crossing.md)
+      - [NeuralCF——CF & 深度学习](深度学习推荐算法/NeuralCF.md)
+      - [PNN模型——加强特征交叉](深度学习推荐算法/PNN.md)
   - [Wide&Deep——记忆&泛化](深度学习推荐算法/Wide&Deep.md)
   - [FM & DNN (FNN、DeepFM、NFM)](深度学习推荐算法/FM_Deep.md)
   - [推荐中的注意力机制AFM、DIN](深度学习推荐算法/Attention.md)
   - [DIEN——序列模型与推荐](深度学习推荐算法/DIEN.md)
   - 强化学习 & 推荐
   - **Embedding技术的应用**
-  	- Embedding简介 
-  	- Word2Vec方法
-  	- Item2Vec方法
-  	- Graph Embedding
-  	- 局部敏感哈希
-  	- Embedding在推荐系统中的应用
+    - Embedding简介 
+    - Word2Vec方法
+    - Item2Vec方法
+    - Graph Embedding
+    - 局部敏感哈希
+    - Embedding在推荐系统中的应用
 - **四、推荐系统评估与价值**
 - **五、推荐系统的工程实现**
     - 数据流与特征工程
