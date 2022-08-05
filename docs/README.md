@@ -1,6 +1,15 @@
 # Juicy-Rec
 
+<p>
+<img src="https://img.shields.io/badge/python-3.7-brightgreen">
+<img src="https://img.shields.io/badge/pytorch-1.11-brightgreen">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/zjycp/juicy-rec">
+</p>
+
+
 > 一个神奇的推荐系统学习站
+
+
 
 本页更新中ing
 
@@ -20,7 +29,7 @@
   </tr>
   <tr>
     <td>一、推荐系统概述</td>
-    <td colspan="2">推荐系统范式</td>
+    <td colspan="2"><a href="https://juicy-rec.emx6.com/#/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E8%8C%83%E5%BC%8F">推荐系统范式</a></td>
     <td></td>
   </tr>
   <tr>
