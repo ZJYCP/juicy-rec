@@ -20,13 +20,7 @@
   - [推荐中的注意力机制AFM、DIN](深度学习推荐算法/Attention.md)
   - [DIEN——序列模型与推荐](深度学习推荐算法/DIEN.md)
   - 强化学习 & 推荐
-  - **Embedding技术的应用**
-    - Embedding简介 
-    - Word2Vec方法
-    - Item2Vec方法
-    - Graph Embedding
-    - 局部敏感哈希
-    - Embedding在推荐系统中的应用
+  - [Embedding技术的应用](深度学习推荐算法/Embedding.md)
   
 - **四、推荐系统评估与价值**
 

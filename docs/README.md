@@ -1,10 +1,10 @@
 # Juicy-Rec
 
-<p>
+<div>
 <img src="https://img.shields.io/badge/python-3.7-brightgreen">
 <img src="https://img.shields.io/badge/pytorch-1.11-brightgreen">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/zjycp/juicy-rec">
-</p>
+</div>
 
 
 > 一个神奇的[推荐系统学习站](https://juicy-rec.emx6.com)
