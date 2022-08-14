@@ -8,6 +8,8 @@
 
 
 
+
+
 ## Item2Vec
 
 
@@ -16,8 +18,21 @@
 
 ## Graph Embedding
 
- 
+ ### DeepWalk
+
+
+
+### Node2Vec
+
+
+
+### EGES
+
+
+
+
 
 
 
 ## 局部敏感哈希
+
