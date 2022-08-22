@@ -89,19 +89,18 @@
   </tr>
   <tr>
     <td>Embedding技术的应用</td>
-    <td></td>
+    <td><a href="https://juicy-rec.emx6.com/#/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95/Embedding">Embedding</a></td>
     <td></td>
   </tr>
   <tr>
     <td>四、推荐系统评估与价值</td>
-    <td></td>
-    <td></td>
+    <td colspan="2"><a href="https://juicy-rec.emx6.com/#/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E8%AF%84%E4%BC%B0%E4%B8%8E%E4%BB%B7%E5%80%BC/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AF%84%E4%BC%B0">推荐系统的评估</a></td>
     <td></td>
   </tr>
   <tr>
     <td rowspan="4">五、推荐系统的工程实现</td>
     <td>数据流与特征工程</td>
-    <td></td>
+    <td><a href="https://juicy-rec.emx6.com/#/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%AE%9E%E7%8E%B0/%E6%95%B0%E6%8D%AE%E6%B5%81%E4%B8%8E%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B">大数据架构</a></td>
     <td></td>
   </tr>
   <tr>
@@ -132,3 +131,4 @@
   </tr>
 </tbody>
 </table>
+
